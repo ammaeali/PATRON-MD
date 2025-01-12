@@ -1,8 +1,8 @@
-rtglobal.bankname = "MONIEPOINT"
+global.bankname = "Scorpio"
 
 global.banknumber = "923429152169"
 
-global.bankowner = "FADARE"
+global.bankowner = "Scorpio"
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
